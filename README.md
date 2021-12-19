@@ -1,5 +1,7 @@
 # wioTerminal Namecard
 
+![example workflow](https://github.com/botamochi6277/wioTerminal_namecard/actions/workflows/ci-platformio.yml/badge.svg)
+
 ![namecard](https://user-images.githubusercontent.com/14128408/146183351-93818b28-cade-48f7-87a0-565f6c1e062a.gif)
 
 A namecard with SEEED [wioTerminal](https://wiki.seeedstudio.com/Wio-Terminal-Getting-Started/) without SD card.
